@@ -7,17 +7,17 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new settings 
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.botname = 'KEKELI-PRO-V2' //ur bot name
+global.ownernumber = '233242848862' //ur owner number
+global.ownername = 'KEKELI-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elitepro-empire"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' // Change this image link to yours.
 
 global.themeemoji = '👨🏼‍💻'
-global.wm = "ELITE-PRO-V2"
+global.wm = "KEKELI-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2\n\n+2348109263390"
+global.author = "KEKELI-PRO-V2\n\n+2348109263390"
 global.creator = "2348109263390@s.whatsapp.net"
 global.xprefix = '.' //set any prefix 
 global.premium = ["2348109263390"] // Premium User
@@ -48,7 +48,7 @@ global.mess = {
 
 //text bug
 global.xbugtex = {
-xtxt: '👨🏼‍💻ELITE-PRO-V2👨🏼‍💻',
+xtxt: '👨🏼‍💻KEKELI-PRO-V2👨🏼‍💻',
 }
 
 
